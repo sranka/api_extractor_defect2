@@ -18,5 +18,4 @@ export interface FluxParameterLike
 |  --- | --- |
 |  ["ADDED\_just\_to\_know\_if\_it\_is\_scoped-to\_symbol\_only"()](./api_extractor_defect.fluxparameterlike._added_just_to_know_if_it_is_scoped-to_symbol_only_.md) |  |
 |  [\[FLUX\_VALUE\]()](./api_extractor_defect.fluxparameterlike._flux_value_.md) |  |
-|  [anotherMethod()](./api_extractor_defect.fluxparameterlike.anothermethod.md) |  |
 
