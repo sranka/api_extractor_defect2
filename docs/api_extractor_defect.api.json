@@ -281,6 +281,34 @@
               "overloadIndex": 1,
               "parameters": [],
               "name": "[FLUX_VALUE]"
+            },
+            {
+              "kind": "MethodSignature",
+              "canonicalReference": "api_extractor_defect!FluxParameterLike#anotherMethod:member(1)",
+              "docComment": "",
+              "excerptTokens": [
+                {
+                  "kind": "Content",
+                  "text": "anotherMethod(): "
+                },
+                {
+                  "kind": "Content",
+                  "text": "string"
+                },
+                {
+                  "kind": "Content",
+                  "text": ";"
+                }
+              ],
+              "isOptional": false,
+              "returnTypeTokenRange": {
+                "startIndex": 1,
+                "endIndex": 2
+              },
+              "releaseTag": "Public",
+              "overloadIndex": 1,
+              "parameters": [],
+              "name": "anotherMethod"
             }
           ],
           "extendsTokenRanges": []

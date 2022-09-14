@@ -7,5 +7,6 @@ export declare const STRING_VALUE = "ADDED_just_to_know_if_it_is_scoped-to_symbo
 export interface FluxParameterLike {
     [FLUX_VALUE](): string;
     [STRING_VALUE](): string;
+    anotherMethod(): string;
 }
 //# sourceMappingURL=index.d.ts.map
