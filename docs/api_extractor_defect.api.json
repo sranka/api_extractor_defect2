@@ -210,6 +210,43 @@
           "members": [
             {
               "kind": "MethodSignature",
+              "canonicalReference": "api_extractor_defect!FluxParameterLike#\"ADDED_just_to_know_if_it_is_scoped-to_symbol_only\":member(1)",
+              "docComment": "",
+              "excerptTokens": [
+                {
+                  "kind": "Content",
+                  "text": "["
+                },
+                {
+                  "kind": "Reference",
+                  "text": "STRING_VALUE",
+                  "canonicalReference": "api_extractor_defect!STRING_VALUE"
+                },
+                {
+                  "kind": "Content",
+                  "text": "](): "
+                },
+                {
+                  "kind": "Content",
+                  "text": "string"
+                },
+                {
+                  "kind": "Content",
+                  "text": ";"
+                }
+              ],
+              "isOptional": false,
+              "returnTypeTokenRange": {
+                "startIndex": 3,
+                "endIndex": 4
+              },
+              "releaseTag": "Public",
+              "overloadIndex": 1,
+              "parameters": [],
+              "name": "\"ADDED_just_to_know_if_it_is_scoped-to_symbol_only\""
+            },
+            {
+              "kind": "MethodSignature",
               "canonicalReference": "api_extractor_defect!FluxParameterLike#[FLUX_VALUE]:member(1)",
               "docComment": "",
               "excerptTokens": [
@@ -247,6 +284,32 @@
             }
           ],
           "extendsTokenRanges": []
+        },
+        {
+          "kind": "Variable",
+          "canonicalReference": "api_extractor_defect!STRING_VALUE:var",
+          "docComment": "",
+          "excerptTokens": [
+            {
+              "kind": "Content",
+              "text": "STRING_VALUE = "
+            },
+            {
+              "kind": "Content",
+              "text": "\"ADDED_just_to_know_if_it_is_scoped-to_symbol_only\""
+            }
+          ],
+          "initializerTokenRange": {
+            "startIndex": 1,
+            "endIndex": 2
+          },
+          "isReadonly": true,
+          "releaseTag": "Public",
+          "name": "STRING_VALUE",
+          "variableTypeTokenRange": {
+            "startIndex": 0,
+            "endIndex": 0
+          }
         }
       ]
     }

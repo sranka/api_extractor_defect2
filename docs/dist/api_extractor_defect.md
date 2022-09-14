@@ -15,4 +15,5 @@
 |  Variable | Description |
 |  --- | --- |
 |  [FLUX\_VALUE](./api_extractor_defect.flux_value.md) | Property that offers a function that returns flux-sanitized value of an object. |
+|  [STRING\_VALUE](./api_extractor_defect.string_value.md) |  |
 
